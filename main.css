@@ -1,0 +1,16 @@
+#img{
+    width: auto;
+    height: 200px;
+}
+
+#img-logo{
+    width: 150px;
+    height: auto;
+}
+
+#img-section{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 15px;
+}
